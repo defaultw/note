@@ -18,11 +18,11 @@ ssh-keygen -t rsa -C "youremail@simple.com"
 
 登录Github `点击头像 -> Your repositories ->new`，填写相关信息创建仓库。
 
-![img](F:\note\FigureBed\createrep20200307161619.png)
+![img](https://github.com/defaultw/note/blob/master/FigureBed/createrep20200307161619.png)
 
 ### 3.根据提示在本地初始化仓库
 
-![img](F:\note\FigureBed\init20200307162141.png)
+![img](https://github.com/defaultw/note/blob/master/FigureBed/init20200307162141.png)
 
 在本地新建文件夹中右键 -> git bash here 在当前目录打开git命令行工具。可以根据Github页面提示初始化仓库和提交、推送内容：
 
