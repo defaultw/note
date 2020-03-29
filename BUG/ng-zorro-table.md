@@ -117,3 +117,6 @@ this.dataSet = this.dataSet.filter(d => d.key !== i);
 ```
 
 其中，删除的语句`filter()` 方法创建一个新数组, 其包含通过所提供函数实现的测试的所有元素。 
+
+[Array.prototype.filter()介绍](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+
